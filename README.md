@@ -1,4 +1,22 @@
-# courses
+﻿# courses
+Dominguez, Margarita February 10, 2019 4:59 PM
+
+He, Minying February 10, 2019 4:15 PM
+
+Rhau, Jennifer February 10, 2019 3:44 PM
+
+Okereke, Stephanie  February 6, 2019 12:55 PM
+
+Vallarelli, Nicholas February 6, 2019 1:23 AM
+
+DeLuca, Brandon February 5, 2019 9:27PM
+
+Ng, Vivian February 5, 2019 2:26PM
+
+Sciglimpaglia, Justin February 5, 2019 5:18PM
+
+Chen Li, Sammy November 6, 2018 7:44PM
+
 Li, Hongyuan October 29, 2018 11:44AM
 
 Hiban, Jacob November 5, 2018 6:27 PM
@@ -506,3 +524,5 @@ Kapiti, Anthony September 17, 2018, 11:34 PM
 Patel, Neelkumar October 30,2018,6:42 PM
 
 Lin, Sarah Oct 31, 2018, 6:03pm
+
+Gervis, Edward February 5, 2019, 5:31 PM
